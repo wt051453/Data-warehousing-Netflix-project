@@ -14,8 +14,12 @@ Contents:
 - Netflix stock data https://www.kaggle.com/aayushmishra1512/netflix-stock-data
 
 2. Transform data
-- 
+- Code example for transforming the Netflix original file 
+https://github.com/wt051453/CIS4400_project/blob/main/transformation%20of%20netflix_originals.PNG
+
 3. Load data
+- Code example for creating the original_dim table in database and loading data to it 
+https://github.com/wt051453/CIS4400_project/blob/main/create_load_original_dim.PNG
 
 Contribute
 1. Source Code: https://github.com/wt051453/CIS4400_project/blob/main/CIS4400_Group8_ETL.ipynb
