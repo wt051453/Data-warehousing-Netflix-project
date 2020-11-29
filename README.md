@@ -1,6 +1,6 @@
 ## CIS4400_project ETL
 
-The ETL documentation will show you the different steps of the ETL process by providing a basic explanation of how to do it.
+The Extract, Transform, Load (ETL) documentation will show you the different steps of the ETL process in our project by providing a basic explanation and examples of how to do it.
 
 ### Installation:
 1. Install Python IDE Anaconda Navigator - Jupyter Notebook
@@ -8,7 +8,7 @@ The ETL documentation will show you the different steps of the ETL process by pr
 3. Install Python libraries Pymysql, Pandas and NumPy
 
 ### Contents:
-1. Extract flat files
+1. Extract flat files from Kaggle.com
 - Netflix IMDB scores https://www.kaggle.com/sarahjeeeze/imdbfile
 - Netflix original list https://www.kaggle.com/abhimanyudasarwar/netflix-originals
 - Netflix stock data https://www.kaggle.com/aayushmishra1512/netflix-stock-data
