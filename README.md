@@ -2,12 +2,12 @@
 
 The ETL documentation will show you the different steps of the ETL process by providing a basic explanation of how to do it.
 
-Installation:
+### Installation:
 1. Install Python IDE (Ex. Pycharm, Anaconda Navigator - Jupyter Notebook)
 2. Install MySQL
 3. Install Python libraries Pymysql, Pandas and NumPy
 
-Contents:
+### Contents:
 1. Extract flat files
 - Netflix IMDB scores https://www.kaggle.com/sarahjeeeze/imdbfile
 - Netflix original list https://www.kaggle.com/abhimanyudasarwar/netflix-originals
@@ -21,12 +21,12 @@ https://github.com/wt051453/CIS4400_project/blob/main/transformation%20of%20netf
 - Code example for creating the original_dim table in database and loading data to it 
 https://github.com/wt051453/CIS4400_project/blob/main/create_load_original_dim.PNG
 
-Contribute
+### Contribute:
 1. Source Code: https://github.com/wt051453/CIS4400_project/blob/main/CIS4400_Group8_ETL.ipynb
 
-Support
+### Support:
 If you are having issues, please let us know by sending emails to us at wei.tan1@baruchmail.cuny.edu
 
-License
+### License:
 The project is licensed under the BSD license
 
