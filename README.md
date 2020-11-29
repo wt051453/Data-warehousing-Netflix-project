@@ -27,6 +27,5 @@ https://github.com/wt051453/CIS4400_project/blob/main/create_load_original_dim.P
 ### Support:
 If you are having issues, please let us know by sending emails to us at wei.tan1@baruchmail.cuny.edu
 
-### License:
-The project is licensed under the BSD license
+
 
