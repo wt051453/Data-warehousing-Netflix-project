@@ -3,7 +3,7 @@
 The ETL documentation will show you the different steps of the ETL process by providing a basic explanation of how to do it.
 
 ### Installation:
-1. Install Python IDE (Ex. Pycharm, Anaconda Navigator - Jupyter Notebook)
+1. Install Python IDE Anaconda Navigator - Jupyter Notebook
 2. Install MySQL
 3. Install Python libraries Pymysql, Pandas and NumPy
 
