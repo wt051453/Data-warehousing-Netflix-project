@@ -8,9 +8,9 @@ https://docs.anaconda.com/anaconda/install/
 2. Install MySQL. The MySQL installation Guide below provides instructions to install it based on your operating systems.
 https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
 3. Install Python libraries Pymysql, Pandas and NumPy.
-pip install pymysql
-pip install pandas
-pip install numpy
+- pip install pymysql
+- pip install pandas
+- pip install numpy
 
 ### Contents:
 1. Extract flat files from Kaggle.com 
