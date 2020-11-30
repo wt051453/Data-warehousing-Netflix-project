@@ -3,10 +3,10 @@
 The Extract, Transform, Load (ETL) documentation will show you the code in different steps of the ETL process by providing a basic explanation and examples of how to do it.
 
 ### Installation:
-1. Install Python IDE Anaconda Navigator - Jupyter Notebook. The Anaconda documentation below has instructions to install it based on your operating systems.
-https://docs.anaconda.com/anaconda/install/
+1. Install Python IDE Anaconda Navigator - Jupyter Notebook. The Anaconda documentation below provides instructions to install it based on your operating systems.
+- https://docs.anaconda.com/anaconda/install/
 2. Install MySQL. The MySQL installation Guide below provides instructions to install it based on your operating systems.
-https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
+- https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
 3. Install Python libraries Pymysql, Pandas and NumPy.
 - pip install pymysql
 - pip install pandas
