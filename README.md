@@ -13,18 +13,18 @@ The Extract, Transform, Load (ETL) documentation will show you the code in diffe
 - pip install numpy
 
 ### Contents:
-1. Extract flat files from Kaggle.com 
+1. Extract flat files from Kaggle.com <br>
 Download the below files to your computer.
 - Netflix IMDB scores https://www.kaggle.com/sarahjeeeze/imdbfile
 - Netflix original list https://www.kaggle.com/abhimanyudasarwar/netflix-originals
 - Netflix stock data https://www.kaggle.com/aayushmishra1512/netflix-stock-data
 
-2. Transform data 
+2. Transform data <br>
 Open Jupyter Notebook in Anaconda and create a Python3 file in the same directory that you saved the flat files to before transforming data.
 - Code example for transforming the Netflix original file 
 https://github.com/wt051453/CIS4400_project/blob/main/transformation%20of%20netflix_originals.PNG
 
-3. Load data
+3. Load data <br>
 Create the tables in mysql and load the transformed data into the tables using Python.
 - Code example for creating the original_dim table in database and loading data to it 
 https://github.com/wt051453/CIS4400_project/blob/main/create_load_original_dim.PNG
