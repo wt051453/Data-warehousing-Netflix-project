@@ -12,6 +12,9 @@ The Extract, Transform, Load (ETL) documentation will show you the code in diffe
 - pip install pandas
 - pip install numpy
 
+### Running code in Jupyter Notebook:
+1. Jupyter Notebook documentation on how to run code. https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html
+
 ### Contents:
 1. Extract flat files from Kaggle.com <br>
 Download the below files to your computer.
