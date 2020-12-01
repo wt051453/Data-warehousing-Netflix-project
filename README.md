@@ -16,7 +16,7 @@ The Extract, Transform, Load (ETL) documentation will show you the code in diffe
 1. Jupyter Notebook documentation on how to run code. 
 - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html
 
-### Contents:
+### ETL steps:
 1. Extract flat files from Kaggle.com <br>
 Download the below files to your computer.
 - Netflix IMDB scores https://www.kaggle.com/sarahjeeeze/imdbfile
