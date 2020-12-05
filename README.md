@@ -1,6 +1,6 @@
 ## CIS4400_project ETL
 
-The Extract, Transform, Load (ETL) documentation will show you the code in different steps of the ETL process by providing a basic explanation and examples of how to do it.
+The Extract, Transform, Load (ETL) documentation will show you the code in different steps of the ETL process by providing a basic explanation and examples of how to extract the datasets from datasource, transform data based on the project's requirement and load the transformed data into MySQL database.
 
 ### Installation:
 1. Install Python IDE Anaconda Navigator - Jupyter Notebook. The Anaconda documentation below provides instructions to install it based on your operating systems.
