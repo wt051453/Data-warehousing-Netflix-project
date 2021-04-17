@@ -40,7 +40,7 @@ The final schema for our project is a Star schema which contains two fact tables
 
 Dashboard Application: <br/>
 
-![image](https://user-images.githubusercontent.com/27581761/115129628-aa4cf800-9fb5-11eb-81f4-86571a2118e2.png)
+![image](https://user-images.githubusercontent.com/27581761/115129776-209e2a00-9fb7-11eb-9bf2-4d50e4b23d57.png)
 
 Use MySQL workbench to monitor performance <br/>
 
