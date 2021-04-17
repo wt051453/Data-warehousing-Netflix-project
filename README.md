@@ -24,13 +24,12 @@ ETL: <br/>
 https://github.com/wt051453/ETL-in-data-warehousing-project/ETL <br/>
 
 Final Schema: <br/>
+![image](https://user-images.githubusercontent.com/27581761/115129613-9acdaf00-9fb5-11eb-969b-a5f0e93920f2.png)
 The final schema for our project is a Star schema which contains two fact tables and four dimensional tables. <br/>
 
-![image](https://user-images.githubusercontent.com/27581761/115129613-9acdaf00-9fb5-11eb-969b-a5f0e93920f2.png)
-
 Dashboard Application: <br/>
-Use MySQL workbench to monitor performance <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129628-aa4cf800-9fb5-11eb-81f4-86571a2118e2.png)
+Use MySQL workbench to monitor performance <br/>
 
 Connect Tableau to MySQL: <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129574-36125480-9fb5-11eb-8947-9657a84c5e9f.png)
