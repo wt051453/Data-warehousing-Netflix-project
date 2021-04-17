@@ -50,13 +50,15 @@ Connect Tableau to MySQL: <br/>
 The analytics/visualization in the dashboard help answer the questions in the Problem section.
 
 What the most popular genre of movies/shows are in the current Netflix shows/movies selection and whether the popular videos align with high IMDB scores? The answer is no, the most popular shows on the left don’t always correspond to high IMDB scores on the right. <br/>
-![image](https://user-images.githubusercontent.com/27581761/115129569-23981b00-9fb5-11eb-8c87-17904dbfa8d4.png) 
+
+![image](https://user-images.githubusercontent.com/27581761/115129794-49beba80-9fb7-11eb-92d2-d5c5b02d6417.png)
+
 
 Settings to create the visualization: from facts_imdb_rating table, I put the ‘Listed in’ to Rows as ‘Dimension’ and put Counts of ‘Listed in’ and Average of ‘Rating’ to the Columns and finally displayed the data in bar graph.
 
 Do Netflix originals have higher IMDB scores? The answer is yes. The originals have slightly lower max score (9.5 vs 9.7) than not originals but have higher 75th percentile, median, 25th percentile and mix score than not originals. <br/>
 
-![image](https://user-images.githubusercontent.com/27581761/115129665-fd26af80-9fb5-11eb-82f9-3a45422b4e3b.png)
+![image](https://user-images.githubusercontent.com/27581761/115129800-5511e600-9fb7-11eb-8da5-9e1b2b1d6d4c.png)
 
 Settings to create the visualization: from facts_imdb_rating table, I put the ‘Rating’ to the Rows and put ‘Original Title’ as the filters (selecting all except null) to create the boxplot. <br/>
 
@@ -66,13 +68,15 @@ Settings to create the visualization: from facts_imdb_rating table, I put the �
 
 Is there a positive relationship between high score movies/shows to the stock prices? The answer is no, there is no positive correlation between the average IMDB scores to stock prices by year. <br/>
 
-![image](https://user-images.githubusercontent.com/27581761/115129686-26dfd680-9fb6-11eb-94f1-a28edb59c176.png)
+![image](https://user-images.githubusercontent.com/27581761/115129805-60651180-9fb7-11eb-867c-8a78a185a486.png)
+
 
 Settings to create the visualization: from facts_imdb_rating table, I put the  Average ‘Rating’ to the Rows, from facts_stock_prices table, I put the Sum ‘Adj Close’ to the Rows, and from date_dim table, I put ‘Year’ to the Columns to create the dual Y-axis graph to show average rating and total of adjusted closing prices by year. <br/>
 
 A map to show the average IMDB scores by country. <br/>
 
-![image](https://user-images.githubusercontent.com/27581761/115129692-38c17980-9fb6-11eb-8ce0-9db935c7eaf1.png)
+![image](https://user-images.githubusercontent.com/27581761/115129811-71ae1e00-9fb7-11eb-936a-a61879cb64c8.png)
+
 
 Settings to create visualization: I put the Tableau auto generated Longitude and Latitude to Columns and Rows respectively and put Average ‘Rating’ in 'Color', Counts ‘Rating’ (facts_imdb_rating) and Country (show_dim) as ‘Dimension’ in the Detail to display the world map showing average IMDB rating by country. <br/>
 
