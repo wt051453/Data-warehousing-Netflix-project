@@ -24,7 +24,18 @@ ETL: <br/>
 https://github.com/wt051453/ETL-in-data-warehousing-project/ETL <br/>
 
 Final Schema: <br/>
-![image](https://user-images.githubusercontent.com/27581761/115129613-9acdaf00-9fb5-11eb-969b-a5f0e93920f2.png)
+![image](https://user-images.githubusercontent.com/27581761/115129748-dd43bb80-9fb6-11eb-80a4-631949edc47a.png)
+
+![image](https://user-images.githubusercontent.com/27581761/115129752-e3399c80-9fb6-11eb-95f8-6035664ae834.png)
+
+![image](https://user-images.githubusercontent.com/27581761/115129755-e765ba00-9fb6-11eb-81f8-322757edc8a3.png)
+
+![image](https://user-images.githubusercontent.com/27581761/115129757-eb91d780-9fb6-11eb-812c-38d15b54c278.png)
+
+![image](https://user-images.githubusercontent.com/27581761/115129760-f0ef2200-9fb6-11eb-86b5-5d6d19f816d2.png)
+
+![image](https://user-images.githubusercontent.com/27581761/115129762-f5b3d600-9fb6-11eb-8c43-45570ed76794.png)
+
 The final schema for our project is a Star schema which contains two fact tables and four dimensional tables. <br/>
 
 Dashboard Application: <br/>
