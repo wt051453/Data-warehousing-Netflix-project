@@ -39,7 +39,9 @@ Final Schema: <br/>
 The final schema for our project is a Star schema which contains two fact tables and four dimensional tables. <br/>
 
 Dashboard Application: <br/>
+
 ![image](https://user-images.githubusercontent.com/27581761/115129628-aa4cf800-9fb5-11eb-81f4-86571a2118e2.png)
+
 Use MySQL workbench to monitor performance <br/>
 
 Connect Tableau to MySQL: <br/>
