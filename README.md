@@ -6,6 +6,11 @@ Netflix is a subscription-based streaming service that allows its members to wat
 Problem: <br/>
 The system helps us to find out what the most popular genre of movies/shows are in the current Netflix shows/movies selection; whether the popular videos align with high IMDB scores; whether Netflix originals have higher IMDB scores; and if there is a positive relationship between high score movies/shows to the stock prices.
 
+Dimensional Model: <br/>
+https://github.com/wt051453/ETL-in-data-warehousing-project/blob/main/dimensional%20model.pdf
+
+Architecture Diagram: <br/>
+
 Conclusion: <br/>
 The analytics built in Tableau using data transformed by the data source helped answer the problems we identified during the planning section and learned from data analysis that there are room to improve the movie/show selections in genres that received high IMDB rating, produce more high quality Netflix original movies/shows and increase movies/shows from countries that have higher than average IMDB ratings to attract more and retain existing subscriptions. <br/>
 
