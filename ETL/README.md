@@ -1,4 +1,4 @@
-## CIS4400_project ETL
+## ETL
 
 The Extract, Transform, Load (ETL) documentation will show you the code in different steps of the ETL process by providing a basic explanation and examples of how to extract the datasets from datasource, transform data based on the project's requirement and load the transformed data into MySQL database.
 
